@@ -20,9 +20,7 @@
     "mongoose": "5.3.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "validator": "10.8.0"
-  },
-  "devDependencies": {
+    "validator": "10.8.0",
     "@babel/core": "^7.0.0",
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
